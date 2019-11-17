@@ -13,7 +13,7 @@ Then for each channel and message I create a json file with the raw data and a m
 
 I used the markdown files as channel and message collections in Jekyll to create a static website from the data.
 
-# Usages
+# Usage
 This is a console app
 
 Run the app with 2 command line paramaters:
